@@ -2,7 +2,7 @@
     "name": "among-us-bot",
     "version": "1.0.0",
     "description": "Bot to help in among us",
-    "main": "bot.js",
+    "main": "NewBot/bot.js",
     "author": "Simon Cobb",
     "dependencies": {
         "discord.js": "^12.3.1"
